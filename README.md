@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Nagy</h1>
-<h3 align="center"> <p>Currently i'm a student</p> <a href="https://iti.gov.eg/iti/home" alt="Information Technology Institute" color="red">@ITI (Open Source Applications Development Track)</a> , I'm Trying to be a Talented Software Engineer , I have a passion for coding, learning. With a solid foundation in core concepts such as Data Structures, Algorithms, and OOP, I Also try to learn some topics about design Patterns , DataBase And Operating systems. I'm interested in new technologies and trying to use the software as a solution in my life.</h3>
+<h3 align="center"> <p display="inline-block">Currently i'm a student</p> <a href="https://iti.gov.eg/iti/home" alt="Information Technology Institute" color="red">@ITI (Open Source Applications Development Track)</a> , I'm Trying to be a Talented Software Engineer , I have a passion for coding, learning. With a solid foundation in core concepts such as Data Structures, Algorithms, and OOP, I Also try to learn some topics about design Patterns , DataBase And Operating systems. I'm interested in new technologies and trying to use the software as a solution in my life.</h3>
 
 - 🌱 I’m currently learning **Django**
 
