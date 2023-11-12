@@ -7,7 +7,7 @@
 
 <h3 align="left">Competitive Programming:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/@aeldk24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aeldk24" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/aeldk24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aeldk24" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/-nagy-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="-nagy-" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nagydissapointed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nagydissapointed" height="30" width="40" /></a>
 </p>
