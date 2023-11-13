@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://twitter.com/eldk_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eldk_n" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ahmed-nagy-eldk-443a041b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-nagy-eldk-443a041b2/" height="30" width="40" /></a>
-<a href="mailto:anagy8050@gmail.com" target="blank"> <img align="center" width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="mailto:anagy8050@gmail.com"/> 
+<a href="mailto:anagy8050@gmail.com" target="blank"> <img align="center" width="48" height="48" src="[https://img.icons8.com/color/48/gmail-new.png](https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg)" alt="mailto:anagy8050@gmail.com"/> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
