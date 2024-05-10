@@ -33,19 +33,13 @@
 <a href="https://www.leetcode.com/nagydissapointed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nagydissapointed" height="30" width="40" /></a>
 </p>
 
-<h3>Programming Languages</h3>
+<h3>Languages And Tools</h3>
 
 [![Languages](https://skillicons.dev/icons?i=js,html,css,py,java,c,cpp,bash,ts,ruby,php)](https://skillicons.dev)
 
-<h3>DataBase</h3>
-
 [![DataBases](https://skillicons.dev/icons?i=mongodb,postgres,mysql)](https://skillicons.dev)
 
-<h3>Technologies And Tools</h3>
-
 [![Technologies](https://skillicons.dev/icons?i=nodejs,laravel,django,spring,angular,react,vue,nginx,wordpress,docker,git,postman)](https://skillicons.dev)
-
-<h3>Other</h3>
 
 [![Other](https://skillicons.dev/icons?i=npm,linux,redhat,ubuntu,latex,clion,vscode,idea,phpstorm,pycharm,discord)](https://skillicons.dev)
 
