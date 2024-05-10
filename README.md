@@ -13,7 +13,7 @@
   </a>
 
   
-  <a href="https://t.me/darkSparrow_07">
+  <a href="https://t.me/Blitz576">
     <img src="https://img.shields.io/badge/Telegram-lightblue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>  
   <a href="https://twitter.com/eldk_n">
