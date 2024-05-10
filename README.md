@@ -1,9 +1,30 @@
-<h1 align="center">Hi 👋, I'm Ahmed Nagy</h1>
-<h3 align="center"> Currently i'm a student <a href="https://iti.gov.eg/iti/home" alt="Information Technology Institute" color="red">@ITI (Open Source Applications Development Track)</a> , I'm Trying to be a Talented Software Engineer , I have a passion for coding, learning. With a solid foundation in core concepts such as Data Structures, Algorithms, and OOP, I Also try to learn some topics about design Patterns , DataBase And Operating systems. I'm interested in new technologies and trying to use the software as a solution in my life.</h3>
+<img src="https://komarev.com/ghpvc/?username=Blitz576&style=flat-square&color=blue" align="right" alt=""/>
+<h1 align='center'>
+  Hi , i'm Ahmed Nagy
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3hndnFzbnAzODR4NnpjZ244MmVxeXFlNmFpYnpwNG01OGRqazhxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="235"/>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/ahmed-nagy-eldk-443a041b2/" border-radius="30">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
+  
+  <a href="https://t.me/darkSparrow_07">
+    <img src="https://img.shields.io/badge/Telegram-lightblue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>  
+  <a href="https://twitter.com/eldk_n">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>  
+</div>
+<p align="center"> Currently i'm a student <a href="https://iti.gov.eg/iti/home" alt="Information Technology Institute" color="red"><strong>@ITI (Open Source Applications Development Track)</strong></a> , I'm a <strong>Talented Software Engineer</strong> , I have a passion for coding, learning. With a solid foundation in core concepts such as <strong>Data Structures, Algorithms, and OOP </strong> , I Also try to learn some topics about <strong>Design Patterns , DataBase And Operating systems </strong>. I'm interested in new technologies and trying to use the software as a solution in my life.</p>
 
 - 🌱 I’m currently learning **JavaScript** and **Angular.js** and **Laravel**
 
-- 📫 How to reach me **anagy8050@gmail.com**
+- 📫 Personal Email **ahmed.nagy.eldk@gmail.com**
 
 <h3 align="left">Competitive Programming:</h3>
 <p align="left">
@@ -12,15 +33,21 @@
 <a href="https://www.leetcode.com/nagydissapointed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nagydissapointed" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/eldk_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eldk_n" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ahmed-nagy-eldk-443a041b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-nagy-eldk-443a041b2/" height="30" width="40" /></a>
-  <a href="https://t.me/darkSparrow_07" target="blank"><img align="center" width="48" height="30" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="https://t.me/darkSparrow_07" /> </a>
-</p>
+<h3>Programming Languages</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+[![Languages](https://skillicons.dev/icons?i=js,html,css,py,java,c,cpp,bash,ts,ruby,php)](https://skillicons.dev)
+
+<h3>DataBase</h3>
+
+[![DataBases](https://skillicons.dev/icons?i=mongodb,postgres,mysql)](https://skillicons.dev)
+
+<h3>Technologies And Tools</h3>
+
+[![Technologies](https://skillicons.dev/icons?i=nodejs,laravel,django,spring,angular,react,vue,nginx,docker,git,postman)](https://skillicons.dev)
+
+<h3>Other</h3>
+
+[![Other](https://skillicons.dev/icons?i=npm,linux,redhat,latex,clion,vs,idea,phpstorm,pycharm,discord)](https://skillicons.dev)
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Blitz576&theme=dark&background=000000)](https://git.io/streak-stats)
