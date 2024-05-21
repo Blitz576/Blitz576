@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>  
 </div>
-<p align="center"> Currently i'm a student <a href="https://iti.gov.eg/iti/home" alt="Information Technology Institute" color="red"><strong>@ITI (Open Source Applications Development Track)</strong></a> , I'm a <strong>Talented Software Engineer</strong> , I have a passion for coding, learning. With a solid foundation in core concepts such as <strong>Data Structures, Algorithms, and OOP </strong> , I Also try to learn some topics about <strong>Design Patterns , DataBase And Operating systems </strong>. I'm interested in new technologies and trying to use the software as a solution in my life.</p>
+<p align="center"> Currently i'm a student <a href="https://iti.gov.eg/iti/home" alt="Information Technology Institute" color="red"><strong>@ITI (Open Source Applications Development Track)</strong></a> , I'm a <strong>Talented Software Engineer</strong> , I 0have a passion for coding, learning. With a solid foundation in core concepts such as <strong>Data Structures, Algorithms, and OOP </strong> , I Also try to learn some topics about <strong>Design Patterns , DataBase And Operating systems </strong>. I'm interested in new technologies and trying to use the software as a solution in my life.</p>
 
 - 🌱 I’m currently learning **Ruby** and **React**
 
@@ -30,7 +30,7 @@
 <p align="left">
 <a href="https://www.hackerrank.com/profile/aeldk24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aeldk24" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/-nagy-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="-nagy-" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nagydissapointed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nagydissapointed" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/NagyDisappointed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="NagyDisappointed" height="30" width="40" /></a>
 </p>
 
 <h3>Programming Languages:</h3>
