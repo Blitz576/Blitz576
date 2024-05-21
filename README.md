@@ -22,7 +22,7 @@
 </div>
 <p align="center"> Currently i'm a student <a href="https://iti.gov.eg/iti/home" alt="Information Technology Institute" color="red"><strong>@ITI (Open Source Applications Development Track)</strong></a> , I'm a <strong>Talented Software Engineer</strong> , I have a passion for coding, learning. With a solid foundation in core concepts such as <strong>Data Structures, Algorithms, and OOP </strong> , I Also try to learn some topics about <strong>Design Patterns , DataBase And Operating systems </strong>. I'm interested in new technologies and trying to use the software as a solution in my life.</p>
 
-- 🌱 I’m currently learning **TypeScript** and **Angular.js** and **Laravel**
+- 🌱 I’m currently learning **Ruby** and **React**
 
 - 📫 Personal Email **ahmed.nagy.eldk@gmail.com**
 
